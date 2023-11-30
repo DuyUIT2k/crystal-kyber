@@ -265,7 +265,7 @@ class Kyber:
         https://pq-crystals.org/kyber/data/kyber-specification-round3-20210804.pdf
         
         Input:
-            sk: public key
+            sk: secret key
             c:  message ∈ B^32
         Output:
             m:  message ∈ B^32
